@@ -1,4 +1,4 @@
-# Udacity_AnalyzeA-BTestResults
+# Udacity Data Analyst Nanodegree Project: Analyze-AB-Test-Results
 To understand the results of an A/B test run by an e-commerce website
 
 # Description
